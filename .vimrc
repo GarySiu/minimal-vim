@@ -12,3 +12,4 @@ set autoindent
 set path+=**
 " show wildcard completions with tab/shift tab selection
 set wildmenu
+set listchars=tab:→\ ,space:·,nbsp:␣,trail:•,eol:¶,precedes:«,extends:»
