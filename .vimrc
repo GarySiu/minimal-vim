@@ -12,4 +12,7 @@ set autoindent
 set path+=**
 " show wildcard completions with tab/shift tab selection
 set wildmenu
+" show hidden characters when enabled
 set listchars=tab:→\ ,space:·,nbsp:␣,trail:•,eol:¶,precedes:«,extends:»
+" detect filetype and format indentations
+filetype plugin indent on
