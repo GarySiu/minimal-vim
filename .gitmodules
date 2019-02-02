@@ -7,3 +7,9 @@
 [submodule "pack/michaeljsmith/start/vim-indent-object"]
 	path = pack/michaeljsmith/start/vim-indent-object
 	url = https://github.com/michaeljsmith/vim-indent-object.git
+[submodule "pack/jiangmiao/start/auto-pairs"]
+	path = pack/jiangmiao/start/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs.git
+[submodule "pack/mattn/start/emmet-vim"]
+  path = pack/mattn/start/emmet-vim
+  url = https://github.com/mattn/emmet-vim.git
