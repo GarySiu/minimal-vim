@@ -10,3 +10,6 @@
 [submodule "pack/mattn/start/emmet-vim"]
   path = pack/mattn/start/emmet-vim
   url = https://github.com/mattn/emmet-vim.git
+[submodule "pack/justinmk/start/vim-sneak"]
+	path = pack/justinmk/start/vim-sneak
+	url = https://github.com/justinmk/vim-sneak.git
