@@ -16,3 +16,4 @@ set wildmenu
 set listchars=tab:→\ ,space:·,nbsp:␣,trail:•,eol:¶,precedes:«,extends:»
 " detect filetype and format indentations
 filetype plugin indent on
+let g:sneak#label = 1
