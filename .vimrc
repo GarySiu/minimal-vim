@@ -2,7 +2,8 @@
 set number
 " syntax highlighting and colorscheme
 syntax enable
-colorscheme monokai
+colorscheme gruvbox
+set background=dark
 " tabs should be 2 spaces
 set tabstop=2
 set shiftwidth=2
