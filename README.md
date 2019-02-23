@@ -1,12 +1,16 @@
 # Minimal Vim Setup
 
-This vim setup is partially inspired by ["How To Learn Vim: A Four Week
+This Vim setup is partially inspired by ["How To Learn Vim: A Four Week
 Plan"](https://medium.com/actualize-network/how-to-learn-vim-a-four-week-plan-cd8b376a9b85),
 an article by [Peter Jang](https://medium.com/@peterxjang). It is also heavily
 influenced by the features and plugins emulated by VS Code. The idea is you can start
 learning Vim while still using VS Code. This gives you a consistent base of core skills
 across different environments. This is *not* intended as the one true setup, just
 something to help you learn without distractions.
+
+This setup has been tested on Vim and Neovim. Neovim will require additional steps
+detailed in "nvim-from-vim" in the help manual. It will probably work with gVim and
+other flavours, but I haven't tested it yet.
 
 ## Installation
 
