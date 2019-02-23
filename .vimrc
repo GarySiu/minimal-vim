@@ -9,6 +9,8 @@ set tabstop=2
 set shiftwidth=2
 set expandtab
 set autoindent
+set hlsearch
+set incsearch
 " enable fuzzy finding
 set path+=**
 " show wildcard completions with tab/shift tab selection
