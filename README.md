@@ -37,6 +37,13 @@ with a symbolic link.
 
 `ln -s ~/.vim/.vimrc ~/.vimrc`
 
+You will probably want to build/rebuild your tags (help) files.
+
+```
+:helptags ALL
+```
+
+
 ## Plugin Reference
 
 * Monokai - Extremely popular colorscheme from TextMate. Not currently used but
