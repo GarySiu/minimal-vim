@@ -2,7 +2,7 @@
 set number
 " currently experimenting with relative line numbers
 " can toggle it when needed with :set rnu!
-set relativenumber
+" set relativenumber
 " syntax highlighting and colorscheme
 syntax enable
 colorscheme gruvbox
