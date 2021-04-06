@@ -40,7 +40,7 @@ with a symbolic link.
 You will probably want to build/rebuild your tags (help) files.
 
 ```
-:helptags ALL
+sudo vim -u NONE -c "helptags ALL" -c q
 ```
 
 
