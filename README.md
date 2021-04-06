@@ -54,3 +54,4 @@ sudo vim -u NONE -c "helptags ALL" -c q
 * emmet - HTML/CSS/XSL snippet expansion and manipulation.
 * vim-indent-object - Adds a new text object based on indentation level.
 * vim-surround - Wrap, edit and delete surrounding characters or tags.
+* vim-commentary - Comment stuff out.
